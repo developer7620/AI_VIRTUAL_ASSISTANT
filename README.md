@@ -42,6 +42,13 @@ AI_Virtual_Assistant/
 │ │ └── App.jsx
 │ └── vite.config.js
 
+## Screenshot ->>>
+
+
+<img width="1440" height="788" alt="Screenshot 2025-07-18 at 11 08 46 AM" src="https://github.com/user-attachments/assets/946e6af9-91b7-4aff-ba2b-0e23a6e120b5" />
+
+
+
 📌 Future Enhancements
 Further Voice assistant optimization
 
