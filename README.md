@@ -7,7 +7,7 @@ Coming soon...
 
 ## 🚀 Features
 - Text-based interaction with contextual responses
-- Voice input and response (if implemented)
+- Voice input and response 
 - Dynamic command parsing (e.g., weather, reminders, general questions)
 - Modular backend for adding new features easily
 - Clean and responsive UI using modern frontend libraries
@@ -17,8 +17,6 @@ Coming soon...
 - **Backend:** Node.js, Express.js
 - **Others:** Axios, useContext API
 
-## 📸 Screenshots
-_Add UI screenshots here (drag & drop or upload if hosted)_
 
 ## 🧠 How it Works
 1. User enters or speaks a command.
