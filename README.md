@@ -52,6 +52,5 @@ AI_Virtual_Assistant/
 📌 Future Enhancements
 Further Voice assistant optimization
 
-AI model integration (OpenAI or local LLM)
 
 Session history and analytics
